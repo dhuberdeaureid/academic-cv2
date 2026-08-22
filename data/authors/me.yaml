@@ -4,7 +4,7 @@ is_owner: true
 name:
   display: David Huberdeau-Reid
   given: David
-  family: Huberdeau-Reid
+  family: Huberdeau
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: 
@@ -13,7 +13,7 @@ postnominals:
   - MIEEE
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: PhD Candidate in Finance
 bio: |
   Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
   has been published in top conferences like NeurIPS and ICML, with over
@@ -26,18 +26,12 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:dhuberdeau@live.com
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/david-a-huberdeau-reid-8049b81b6/
+  - icon: academicons/ssrn
+  url: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6930811
 
 interests:
   - Large Language Models
