@@ -29,9 +29,9 @@ links:
     url: mailto:dhuberdeau@live.com
     label: E-mail Me
   - icon: brands/linkedin
-  url: https://www.linkedin.com/in/david-a-huberdeau-reid-8049b81b6/
+     url: https://www.linkedin.com/in/david-a-huberdeau-reid-8049b81b6/
 - icon: academicons/ssrn
-  url: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6930811
+     url: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6930811
 
 interests:
   - Large Language Models
