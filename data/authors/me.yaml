@@ -3,11 +3,11 @@ slug: me
 is_owner: true
 name:
   display: David Huberdeau-Reid
-  given: Alex
-  family: Johnson
+  given: David
+  family: Huberdeau-Reid
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  pronouns: 
 postnominals:
   - PhD
   - MIEEE
