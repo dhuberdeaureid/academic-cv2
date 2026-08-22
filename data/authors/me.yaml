@@ -30,8 +30,10 @@ links:
     label: E-mail Me
   - icon: brands/linkedin
      url: https://www.linkedin.com/in/david-a-huberdeau-reid-8049b81b6/
+     label: linkedin Profile
 - icon: academicons/ssrn
      url: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6930811
+     label: SSRN
 
 interests:
   - Large Language Models
