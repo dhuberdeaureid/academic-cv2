@@ -1,5 +1,4 @@
-{{ $username := .content.username | default "me" }}
-{{ $author := index site.Data.authors $username }}
+{{ $author := site.Data.authors.me }}
 
 <section class="relative">
   <div class="max-w-prose mx-auto">
