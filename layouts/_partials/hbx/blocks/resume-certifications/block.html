@@ -1,1 +1,27 @@
+{{ $username := .content.username | default "me" }}
+{{ $author := index site.Data.authors $username }}
 
+<section class="relative">
+  <div class="max-w-prose mx-auto">
+
+    {{ with .content.title }}
+      <h2 class="text-3xl font-bold mb-6">{{ . }}</h2>
+    {{ end }}
+
+    {{ with $author.charters_certifications }}
+      <div class="space-y-6">
+        {{ range . }}
+          <div>
+            <div class="font-semibold text-lg">
+              {{ .degree }}
+            </div>
+            <div>
+              {{ .institution }}
+            </div>
+          </div>
+        {{ end }}
+      </div>
+    {{ end }}
+
+  </div>
+</section>
