@@ -46,15 +46,16 @@ interests:
 education:
   - degree: PhD in Finance
     institution: University of Memphis
-    summary: |
-      PhD Candidate (ABD). Research interests include financial institutions,
-      banking, real estate, and private capital.
   
   - degree: Master of Finance
     institution: University of Toronto
-    summary: |
-      PhD Candidate (ABD). Research interests include financial institutions,
-      banking, real estate, and private capital.
+
+  - degree: Master of Business Administration
+    institution: Queens University (Kingston, Ontario)
+
+  - degree: Master of Professional Accounting
+    institution: University of Saskatchewan
+
 
 experience:
   - role: PhD Candidate in Finance
